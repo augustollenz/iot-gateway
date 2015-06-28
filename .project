@@ -30,10 +30,5 @@
 			<type>2</type>
 			<location>/opt/iotdk-ide-linux/iot-devkit/workspace/iot-gateway/src/nrf24l01</location>
 		</link>
-		<link>
-			<name>src/nrf24l01-receiver.cxx</name>
-			<type>1</type>
-			<location>/opt/iotdk-ide-linux/iot-devkit/workspace/iot-gateway/src/nrf24l01-receiver.cxx</location>
-		</link>
 	</linkedResources>
 </projectDescription>
